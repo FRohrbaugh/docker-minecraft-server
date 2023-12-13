@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
   mc:
-    image: itzg/minecraft-server
+    image: frohrbaugh/minecraft-server
     environment:
       EULA: "true"
       TYPE: FTBA
